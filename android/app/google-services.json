@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499124089087",
+    "project_id": "goggle-signin-e7cd7",
+    "storage_bucket": "goggle-signin-e7cd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499124089087:android:0fc8051d6ce5319751dcca",
+        "android_client_info": {
+          "package_name": "com.example.harmony_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499124089087-qkso05kscnpu4am982lqskrut3tacj8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5_qPm5sY2B7Y7g5JRFtA0U7Bw6j9MRE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499124089087-n32p438lec8os4gbldlro2rrrrsksvgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
